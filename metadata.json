@@ -1,0 +1,6 @@
+{
+  "name": "NT2 Perfectum & Inversie Trainer",
+  "description": "Educatieve webapp voor NT2 cursisten (Threshold 3 naar B1) om zinnen in het perfectum met inversie en de TOP-reststructuur te oefenen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
